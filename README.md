@@ -1,7 +1,7 @@
 # Frontend Mentor - Chat app CSS illustration - DESIGN AND DEVELOPMENT
 ## Screenshots
-<img src="./images/Screenshot 2026-11-19 004954.png"/>
-<img src="./images/Screenshot 2026-11-19 005000.png"/>
+<img src="./images/Screenshot 2026-11-19 010406.png"/>
+<img src="./images/Screenshot 2026-11-19 010414.png"/>
 
 ## The challenge
 
